@@ -1,4 +1,4 @@
-div1 {
-    background-color:bg-info
-    ;
+.jumbotron {
+    align-items: center;
+    background-color: blue
 }
